@@ -1,6 +1,6 @@
-# Changelog for Thoth's Template GitHub Project
+# Changelog for Curated Stack Pattern 
 
-## [0.1.0] - 2019-Sep-11 - goern
+## [0.1.0] - 2021-May-28 - goern
 
 ### Added
 

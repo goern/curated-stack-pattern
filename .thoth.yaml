@@ -21,7 +21,6 @@ managers:
         - fridex
         - goern
         - harshad16
-        - pacospace
       assignees:
         - sesheta
       labels: [bot]
